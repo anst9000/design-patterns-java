@@ -2,6 +2,7 @@ package com.coltla.dp;
 
 import javax.swing.SwingUtilities;
 
+
 import com.coltla.dp.controller.Controller;
 import com.coltla.dp.model.Model;
 import com.coltla.dp.view.View;
